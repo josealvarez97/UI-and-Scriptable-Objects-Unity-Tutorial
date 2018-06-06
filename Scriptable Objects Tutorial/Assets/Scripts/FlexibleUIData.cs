@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.UI;
 
 [CreateAssetMenu(menuName = "Flexible UI Data")]
 // Allows to create instances of this class, as a file or something like it  
@@ -9,6 +9,10 @@ using UnityEngine;
 
 
 public class FlexibleUIData : ScriptableObject {
+
+    public Sprite buttonSprite;
+
+    public SpriteState buttonSpriteState;
 
 
 }
