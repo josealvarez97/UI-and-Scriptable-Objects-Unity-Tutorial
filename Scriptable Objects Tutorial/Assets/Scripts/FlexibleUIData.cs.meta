@@ -3,7 +3,12 @@ guid: 3a64f271aba34cb4b9fd77f11f2e73d8
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - buttonSprite: {instanceID: 0}
+  - defaultSprite: {instanceID: 0}
+  - confirmSprite: {instanceID: 0}
+  - declineSprite: {instanceID: 0}
+  - warningSprite: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

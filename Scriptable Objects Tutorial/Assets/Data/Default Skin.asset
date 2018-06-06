@@ -11,9 +11,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a64f271aba34cb4b9fd77f11f2e73d8, type: 3}
   m_Name: Default Skin
   m_EditorClassIdentifier: 
-  buttonSprite: {fileID: 21300000, guid: 01e584fc9ff6d4a969400e68b97befc4, type: 3}
+  buttonSprite: {fileID: 21300000, guid: f8f919528929444d38fb2c14ee234bb1, type: 3}
   buttonSpriteState:
     m_HighlightedSprite: {fileID: 21300000, guid: 4d07b2098820749219726c7524130fdf,
       type: 3}
     m_PressedSprite: {fileID: 21300000, guid: 11d75de4e00bf4ca096aa248388d6a76, type: 3}
     m_DisabledSprite: {fileID: 21300000, guid: 66982843b793e4fca92ac00569f2a7ad, type: 3}
+  defaultColor: {r: 0, g: 1, b: 0.18643212, a: 1}
+  defaultSprite: {fileID: 21300000, guid: be1122e930e9e40a3b025d1504529016, type: 3}
+  confirmColor: {r: 0, g: 0.8, b: 0.8, a: 1}
+  confirmSprite: {fileID: 21300000, guid: f9bb722cae9694d9b912e31a11ef69c7, type: 3}
+  declineColor: {r: 0.9622642, g: 0.077162705, b: 0.077162705, a: 1}
+  declineSprite: {fileID: 21300000, guid: a0ebb20a6dce44c8daf09a32e4bd7ef4, type: 3}
+  warningColor: {r: 0.9529412, g: 0.9529412, b: 0.08235294, a: 1}
+  warningSprite: {fileID: 21300000, guid: 43e834d2acfb642c3a9fde6be6d6c4f0, type: 3}

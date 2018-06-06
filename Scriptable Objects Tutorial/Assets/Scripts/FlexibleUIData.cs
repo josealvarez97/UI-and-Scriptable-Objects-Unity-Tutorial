@@ -11,8 +11,21 @@ using UnityEngine.UI;
 public class FlexibleUIData : ScriptableObject {
 
     public Sprite buttonSprite;
-
     public SpriteState buttonSpriteState;
+
+
+    public Color defaultColor;
+    public Sprite defaultSprite;
+
+    public Color confirmColor;
+    public Sprite confirmSprite;
+
+    public Color declineColor;
+    public Sprite declineSprite;
+
+    public Color warningColor;
+    public Sprite warningSprite;
+
 
 
 }
